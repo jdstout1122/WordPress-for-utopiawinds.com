@@ -1,0 +1,67 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => '2.0.4.x-dev',
+        'version' => '2.0.4.9999999-dev',
+        'type' => 'wordpress-plugin',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => '2f41ceb7d142fad753c47c7270ae8abdbabee4b6',
+        'name' => 'fullworks/meet-my-team',
+        'dev' => true,
+    ),
+    'versions' => array(
+        'alanef/plugindonation_lib' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../alanef/plugindonation_lib',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'reference' => 'cb1f9129af7448e59186110af7aefc66b6e911cd',
+            'dev_requirement' => false,
+        ),
+        'composer/installers' => array(
+            'pretty_version' => 'v1.0.12',
+            'version' => '1.0.12.0',
+            'type' => 'composer-installer',
+            'install_path' => __DIR__ . '/./installers',
+            'aliases' => array(),
+            'reference' => '4127333b03e8b4c08d081958548aae5419d1a2fa',
+            'dev_requirement' => false,
+        ),
+        'fullworks/meet-my-team' => array(
+            'pretty_version' => '2.0.4.x-dev',
+            'version' => '2.0.4.9999999-dev',
+            'type' => 'wordpress-plugin',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => '2f41ceb7d142fad753c47c7270ae8abdbabee4b6',
+            'dev_requirement' => false,
+        ),
+        'shama/baton' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => '*',
+            ),
+        ),
+        'squizlabs/php_codesniffer' => array(
+            'pretty_version' => '3.6.2',
+            'version' => '3.6.2.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../squizlabs/php_codesniffer',
+            'aliases' => array(),
+            'reference' => '5e4e71592f69da17871dba6e80dd51bce74a351a',
+            'dev_requirement' => false,
+        ),
+        'wp-coding-standards/wpcs' => array(
+            'pretty_version' => '2.3.0',
+            'version' => '2.3.0.0',
+            'type' => 'phpcodesniffer-standard',
+            'install_path' => __DIR__ . '/../wp-coding-standards/wpcs',
+            'aliases' => array(),
+            'reference' => '7da1894633f168fe244afc6de00d141f27517b62',
+            'dev_requirement' => false,
+        ),
+    ),
+);

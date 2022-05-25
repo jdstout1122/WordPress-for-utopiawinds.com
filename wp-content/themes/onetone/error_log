@@ -1,0 +1,121 @@
+[04-Oct-2017 19:00:28 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/archive.php on line 6
+[06-Oct-2017 05:36:48 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[06-Oct-2017 07:24:27 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/header.php on line 2
+[06-Oct-2017 16:31:11 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/header.php on line 2
+[08-Oct-2017 23:19:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[09-Oct-2017 03:29:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[11-Oct-2017 04:16:19 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[15-Oct-2017 12:37:19 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[16-Oct-2017 14:58:07 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/index.php on line 9
+[17-Oct-2017 05:47:51 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/index.php on line 9
+[03-Nov-2017 07:02:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[09-Nov-2017 12:26:51 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[20-Nov-2017 00:17:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[10-Feb-2018 16:34:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/page.php on line 8
+[10-Feb-2018 16:34:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/page.php on line 8
+[02-Mar-2018 08:28:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[24-Mar-2018 03:32:23 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/archive.php on line 6
+[25-Mar-2018 07:41:55 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/header.php on line 2
+[10-Apr-2018 04:12:44 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[11-Apr-2018 15:40:47 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/archive.php on line 6
+[07-May-2018 03:54:07 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[13-Jul-2018 07:03:41 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/index.php on line 9
+[13-Jul-2018 07:03:41 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/index.php on line 9
+[07-Dec-2018 09:28:24 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[07-Dec-2018 09:28:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/archive.php on line 6
+[18-Dec-2018 17:17:08 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[18-Dec-2018 17:17:08 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/archive.php on line 6
+[18-Dec-2018 17:17:08 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/header.php on line 2
+[18-Dec-2018 17:17:08 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/index.php on line 9
+[18-Dec-2018 17:17:08 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[18-Dec-2018 17:17:09 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/archive.php on line 6
+[18-Dec-2018 17:17:09 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/index.php on line 9
+[18-Dec-2018 17:17:09 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/header.php on line 2
+[26-Jan-2019 04:04:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/archive.php on line 6
+[26-Jan-2019 04:04:04 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/index.php on line 9
+[26-Jan-2019 04:04:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[26-Jan-2019 04:04:04 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/header.php on line 2
+[26-Jan-2019 04:04:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/archive.php on line 6
+[26-Jan-2019 04:04:04 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/index.php on line 9
+[26-Jan-2019 04:04:05 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/404.php on line 3
+[26-Jan-2019 04:04:05 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/lseltzer23/utopiawinds.com/wp-content/themes/onetone/header.php on line 2
+[18-Nov-2019 03:37:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php on line 3
+[13-Dec-2019 18:52:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php on line 3
+[15-Dec-2019 19:13:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php on line 3
+[13-Jan-2020 16:40:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php on line 3
+[15-Jan-2020 18:18:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php on line 3
+[17-Apr-2020 15:07:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php on line 3
+[25-Apr-2020 10:41:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/404.php on line 3
+[27-Mar-2021 03:05:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9
+[06-Apr-2021 01:41:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9
+[11-Apr-2021 05:48:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9
+[23-May-2021 22:05:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9
+[27-May-2021 03:28:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9
+[30-May-2021 03:41:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9
+[02-Jun-2021 03:45:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9
+[02-Jun-2021 05:52:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9
+[14-Oct-2021 16:00:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9
+[03-Nov-2021 02:22:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9
+[04-Nov-2021 05:30:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9
+[22-Dec-2021 11:01:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9
+[20-Apr-2022 19:54:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/lseltzer/public_html/wp-content/themes/onetone/index.php on line 9

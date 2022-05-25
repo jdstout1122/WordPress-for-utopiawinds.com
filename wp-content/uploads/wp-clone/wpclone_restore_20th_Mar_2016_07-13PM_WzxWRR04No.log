@@ -1,0 +1,24 @@
+Sunday, 20-Mar-2016 19:13:11 - restore started
+Sunday, 20-Mar-2016 19:13:11 - wp version     : 4.4.2
+Sunday, 20-Mar-2016 19:13:11 - php version    : 5.6.19
+Sunday, 20-Mar-2016 19:13:11 - mysql version  : 5.5.46
+Sunday, 20-Mar-2016 19:13:11 - memory limit   : 1024M
+Sunday, 20-Mar-2016 19:13:11 - execution time : 600
+Sunday, 20-Mar-2016 19:13:11 - mysql timeout  : 600
+Sunday, 20-Mar-2016 19:13:11 - socket timeout : 600
+Sunday, 20-Mar-2016 19:13:11 - file download started
+Sunday, 20-Mar-2016 19:13:36 - download finished, filesize - 32.84 MB
+Sunday, 20-Mar-2016 19:13:36 - extracting database using ziparchive
+Sunday, 20-Mar-2016 19:13:36 - changing prefix from "wp_" to "wp_qoll_"
+Sunday, 20-Mar-2016 19:13:36 - database import started
+Sunday, 20-Mar-2016 19:13:36 - updating mysql query with current site's url - new query : "INSERT INTO wp_qoll_options VALUES("1","siteurl","http://www.utopiawinds.com/wp/","yes")"
+Sunday, 20-Mar-2016 19:13:36 - mysql query failed. error : 1065 Query was empty - query : ""
+Sunday, 20-Mar-2016 19:13:36 - database import finished
+Sunday, 20-Mar-2016 19:13:36 - search and replace started
+Sunday, 20-Mar-2016 19:13:37 - there are 35 tables to scan
+Sunday, 20-Mar-2016 19:13:37 - search and replace finished
+Sunday, 20-Mar-2016 19:13:37 - extracting archive using ziparchive
+Sunday, 20-Mar-2016 19:13:39 - copying files..
+Sunday, 20-Mar-2016 19:13:41 - deleting temp directory..
+Sunday, 20-Mar-2016 19:13:41 - deleting downloaded zip file..
+Sunday, 20-Mar-2016 19:13:41 - restore finished

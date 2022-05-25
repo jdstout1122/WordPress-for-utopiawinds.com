@@ -1,0 +1,87 @@
+.customize-control-mageewp-typography {
+  position: relative; }
+  .customize-control-mageewp-typography .wrapper {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: 1px solid rgba(0, 0, 0, 0.1); }
+    .customize-control-mageewp-typography .wrapper .color,
+    .customize-control-mageewp-typography .wrapper .font-backup,
+    .customize-control-mageewp-typography .wrapper .font-family,
+    .customize-control-mageewp-typography .wrapper .font-size,
+    .customize-control-mageewp-typography .wrapper .letter-spacing,
+    .customize-control-mageewp-typography .wrapper .line-height,
+    .customize-control-mageewp-typography .wrapper .margin-bottom,
+    .customize-control-mageewp-typography .wrapper .margin-top,
+    .customize-control-mageewp-typography .wrapper .subsets,
+    .customize-control-mageewp-typography .wrapper .text-transform,
+    .customize-control-mageewp-typography .wrapper .variant {
+      width: 100%;
+      float: none;
+      clear: both; }
+      .customize-control-mageewp-typography .wrapper .color h5,
+      .customize-control-mageewp-typography .wrapper .font-backup h5,
+      .customize-control-mageewp-typography .wrapper .font-family h5,
+      .customize-control-mageewp-typography .wrapper .font-size h5,
+      .customize-control-mageewp-typography .wrapper .letter-spacing h5,
+      .customize-control-mageewp-typography .wrapper .line-height h5,
+      .customize-control-mageewp-typography .wrapper .margin-bottom h5,
+      .customize-control-mageewp-typography .wrapper .margin-top h5,
+      .customize-control-mageewp-typography .wrapper .subsets h5,
+      .customize-control-mageewp-typography .wrapper .text-transform h5,
+      .customize-control-mageewp-typography .wrapper .variant h5 {
+        margin: 0.67em 0 0; }
+    .customize-control-mageewp-typography .wrapper .font-size,
+    .customize-control-mageewp-typography .wrapper .letter-spacing,
+    .customize-control-mageewp-typography .wrapper .line-height,
+    .customize-control-mageewp-typography .wrapper .margin-bottom,
+    .customize-control-mageewp-typography .wrapper .margin-top,
+    .customize-control-mageewp-typography .wrapper .text-transform {
+      width: 48%; }
+    .customize-control-mageewp-typography .wrapper .color {
+      width: auto; }
+  .customize-control-mageewp-typography .mageewp-controls-loading-spinner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    text-align: center;
+    background-color: #eee; }
+    .customize-control-mageewp-typography .mageewp-controls-loading-spinner > div {
+      margin-top: 20px;
+      width: 18px;
+      height: 18px;
+      background-color: #333;
+      border-radius: 100%;
+      display: inline-block;
+      -webkit-animation: hoobouncedelay 1.4s infinite ease-in-out both;
+      animation: hoobouncedelay 1.4s infinite ease-in-out both; }
+    .customize-control-mageewp-typography .mageewp-controls-loading-spinner .bounce1 {
+      -webkit-animation-delay: -0.32s;
+      animation-delay: -0.32s; }
+    .customize-control-mageewp-typography .mageewp-controls-loading-spinner .bounce2 {
+      -webkit-animation-delay: -0.16s;
+      animation-delay: -0.16s; }
+
+@-webkit-keyframes hoobouncedelay {
+  0%,
+  100%,
+  80% {
+    -webkit-transform: scale(0); }
+  40% {
+    -webkit-transform: scale(1); } }
+@keyframes hoobouncedelay {
+  0%,
+  100%,
+  80% {
+    -webkit-transform: scale(0);
+    transform: scale(0); }
+  40% {
+    -webkit-transform: scale(1);
+    transform: scale(1); } }
+
+/*# sourceMappingURL=typography.css.map */

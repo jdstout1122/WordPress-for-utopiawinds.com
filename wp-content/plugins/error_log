@@ -1,0 +1,5 @@
+[26-May-2017 06:08:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/lseltzer23/utopiawinds.com/wp-content/plugins/hello.php on line 60
+[08-Nov-2017 07:49:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/lseltzer23/utopiawinds.com/wp-content/plugins/hello.php on line 60
+[25-Nov-2017 09:26:17 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/lseltzer23/utopiawinds.com/wp-content/plugins/hello.php on line 60
+[12-Jan-2018 14:02:48 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/lseltzer23/utopiawinds.com/wp-content/plugins/hello.php on line 60
+[12-Jan-2018 14:02:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/lseltzer23/utopiawinds.com/wp-content/plugins/hello.php on line 60
